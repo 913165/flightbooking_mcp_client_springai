@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "mcp-server-basic-demo": {
+      "command": "C:\\Program Files\\Java\\jdk-24\\bin\\java",
+      "args": [
+        "-jar",
+        "C:\\Users\\tinum\\IdeaProjects\\demo_flight_booking2\\target\\demo_flight_booking2-0.0.4-SNAPSHOT.jar"
+      ]
+    }
+  }
+}
